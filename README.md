@@ -5,7 +5,7 @@ Graduate from Boston University's Masters in Data Science program who has extens
 ## Boston University Phishing Detection Capstone Project
 - Developed and evaluated five supervised machine learning models, Random Forest, Decision Tree, Logistic Regression, Naïve Bayes, and KNN, for phishing email and url detection.
 - Addressed class imbalance and assessed model performance using cross-validation, precision, recall, and f1 score metrics.
-- Identified Random Forest as the best performing model since it was the only model that exceeded or met the Logistic Regression baseline in addition to gettingh at least 80% for accuracy and the phishing f1 score.
+- Identified Random Forest as the best performing model since it was the only model that exceeded or met the Logistic Regression baseline in addition to getting at least 80% for accuracy and the phishing f1 score.
 
 Tools Used: 
 Python (pandas, scikit-learn, matplotlib)
