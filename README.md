@@ -1,5 +1,5 @@
 # Alfred Abraham
-Graduate from Boston University's Masters in Data Science program who has extensive experience analyzing data, tackling business problems, and making predictions using tools and languages such as Python, SQL, Excel, Power BI and Tableau. Previously an intern for Aetna, a CVS Health Company, who created project implementation plans for solving problems such as automating Medicare claims and appeals access provisioning and utilized SQL to consolidate important healthcare information for more efficient reporting. 
+Boston University M.S. in Data Science graduate with experience analyzing data, building predictive machine learning models, and solving business problems using Python, SQL, Excel, Power BI, and Tableau. Former Graduate Intern at Aetna (CVS Health), where I developed project implementation plans for Medicare claims automation initiatives and used SQL to consolidate healthcare data for reporting and operational efficiency.
 
 # Key Projects
 ## Boston University Phishing Detection Capstone Project
