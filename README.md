@@ -31,7 +31,7 @@ Tools Used:
 ## Financial Performance Analytics for NYSE-Listed Companies
 - Collected, cleaned, and analyzed financial datasets to identify profitability trends across publicly traded companies.
 - Built financial forecasting models using optimistic, pessimistic, and expected-case scenarios to evaluate company performance under varying business conditions.
--Created visualizations to communicate trends in profitability and forecasted financial outcomes.
+- Created visualizations to communicate trends in profitability and forecasted financial outcomes.
 
 Tools Used:
 Python (pandas, matplotlib)
