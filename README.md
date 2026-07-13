@@ -3,16 +3,16 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 
 # Key Projects
 ## Boston University Phishing Detection Capstone Project
-- Developed and evaluated five supervised machine learning models, Random Forest, Decision Tree, Logistic Regression, Naïve Bayes, and KNN, for phishing email and url detection.
-- Addressed class imbalance and assessed model performance using cross-validation, precision, recall, and f1 score metrics.
-- Identified Random Forest as the best performing model since it was the only model that exceeded or met the Logistic Regression baseline in addition to getting at least 80% for accuracy and the phishing f1 score.
+- Developed an end-to-end phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
+- Evaluated models using cross-validation, precision, recall, and F1-score while addressing class imbalance.
+- Achieved the best overall performance with Random Forest, exceeding the Logistic Regression baseline while achieving over 80% accuracy and phishing F1-score.
 
 Tools Used: 
 Python (pandas, scikit-learn, matplotlib)
 
 ## Credit Card Fraud Detection
-- Built an XGBoost machine learning model to detect fraudulent credit card transactions in a highly imbalanced dataset.
-- Evaluated model performance using precision, recall, and F1-score to optimize fraud detection effectiveness.
+- Built an XGBoost fraud detection model for highly imbalanced credit card transaction data.
+- Optimized model performance using precision, recall, and F1-score rather than accuracy to better evaluate fraud detection effectiveness.
 - Obtained precision and recall metrics for fraudulent transactions that were in the 85 - 88% range, indicating that the vast majority of such transactions were corectly identified while false positives were minimized.
 
 Tools Used: 
@@ -20,9 +20,9 @@ Python (pandas, scikit-learn)
 
 
 ## Bike Sharing Analytics Project (Google Data Analytics Capstone)
-- Analyzed 12 months of bike-share data to identify behavioral differences between casual riders and annual members.
-- Cleaned and transformed large datasets and developed visualizations to uncover usage trends by time, rider type, and bike category.
-- Utilized these trends to make recommendations for how to convert casual riders into annual members (i.e. seasonal discounts, weekend passes).
+- Queried, cleaned, and transformed 12 months of bike-share trip data using PostgreSQL and Excel.
+- Built visualizations identifying rider behavior by customer type, seasonality, weekday, and bike category.
+- Generated business recommendations to increase annual memberships through targeted promotions and pricing strategies.
 
 Tools Used:
 - SQL (PostgreSQL)
@@ -30,8 +30,8 @@ Tools Used:
 
 ## Financial Performance Analytics for NYSE-Listed Companies
 - Collected, cleaned, and analyzed financial datasets to identify profitability trends across publicly traded companies.
-- Built forecasting models using optimistic, pessimistic, and average-case business scenarios.
-- Created visualizations to show the results of these models and communicate analytical insights.
+- Built financial forecasting models using optimistic, pessimistic, and expected-case scenarios to evaluate company performance under varying business conditions.
+-Created visualizations to communicate trends in profitability and forecasted financial outcomes.
 
 Tools Used:
 Python (pandas, matplotlib)
