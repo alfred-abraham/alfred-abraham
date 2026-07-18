@@ -37,7 +37,10 @@ Tools Used: SQL (MySQL)
 ## Car Sales Analytics Dashboard 
 - Created a dashboard for a simulated car sales dataset
 - Displayed annual and monthly sales performance metrics, performance by body style and color, and performance by region
-- Found key insights such as a 24% increase in sales compared to the previous year, a steady increase in sales throughout the year, and a certain car color dominating sales (pale white). 
+- Found key insights such as a 24% increase in sales compared to the previous year, a steady increase in sales throughout the year, and a certain car color dominating sales (pale white).
+Tools Used
+- Power BI
+- DAX
 
 ## Financial Performance Analytics for NYSE-Listed Companies
 - Collected, cleaned, and analyzed financial datasets to identify profitability trends across publicly traded companies.
