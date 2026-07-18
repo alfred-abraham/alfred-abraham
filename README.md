@@ -18,7 +18,7 @@ Python (pandas, scikit-learn, matplotlib)
 Tools Used: 
 Python (pandas, scikit-learn)
 
-## [Customer Churn Prediction] https://github.com/alfred-abraham/customer-churn-prediction
+##[ Customer Churn Prediction](https://github.com/alfred-abraham/customer-churn-prediction)
 - Built an end-to-end machine learning pipeline for telecom customer churn prediction using Decision Tree, Random Forest, and LightGBM.
 - Compared model performance using accuracy, precision, recall, f1 score, and ROC-AUC, selecting LightGBM as the best-performing model.
 - Identified business factors driving customer churn through grouped feature importance analysis and proposed data-driven retention strategies.
