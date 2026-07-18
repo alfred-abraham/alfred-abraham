@@ -13,7 +13,7 @@ Python (pandas, scikit-learn, matplotlib)
 ## [Credit Card Fraud Detection](https://github.com/alfred-abraham/credit-card-fraud-detection)
 - Built an XGBoost fraud detection model for highly imbalanced credit card transaction data.
 - Optimized model performance using precision, recall, and F1-score rather than accuracy to better evaluate fraud detection effectiveness.
-- Obtained precision and recall metrics for fraudulent transactions that were in the 85 - 88% range, indicating that the vast majority of such transactions were corectly identified while false positives were minimized.
+- Obtained precision and recall metrics for fraudulent transactions that were in the 85 - 88% range, indicating that the vast majority of such transactions were correctly identified while false positives were minimized.
 
 Tools Used: 
 Python (pandas, scikit-learn)
