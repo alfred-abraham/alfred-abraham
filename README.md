@@ -32,6 +32,7 @@ Tools Used:
 - Analyzed baseball player data using intermediate-to-advanced SQL queries (i.e. window functions, common table expressions)
 - Focused my analysis on metrics such as top 20% highest spending teams, top five schools by number of players, and number of players who played for more than 10 years on the same team.
 - Proof of ability to utilize advanced SQL queries for analytical reporting using a normalized relational database.
+
 Tools Used: SQL (MySQL)
 
 ## Car Sales Analytics Dashboard 
