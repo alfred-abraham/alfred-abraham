@@ -30,16 +30,21 @@ Tools Used:
 
 
 ## Car Sales Analytics Dashboard 
-- Created a dashboard for a simulated car sales dataset.
-- Displayed annual and monthly sales performance metrics, performance by body style and color, and performance by region.
-- Discovered key insights such as a 24% increase in sales compared to the previous year, a steady increase in sales throughout the year, and a certain car color dominating sales (pale white).
+- Built an interactive Power BI dashboard to monitor sales performance across multiple dimensions including time, region, vehicle body style, and color.
+- Designed KPIs and visualizations so stakeholders could quickly identify trends and compare performance.
+- Identified key business insights, including a 24% year-over-year increase in sales and steady sales growth throughout the year.
 
 Tools Used: Power BI
 
 
 ## Financial Performance Analytics for NYSE-Listed Companies
 - Collected, cleaned, and analyzed financial datasets to identify profitability trends across publicly traded companies.
-- Built financial forecasting models using optimistic, pessimistic, and expected-case scenarios to evaluate company performance under varying business conditions.
+- Developed financial forecasting scenarios (optimistic, expected, and pessimistic) to evaluate company performance under varying business conditions.
 - Created visualizations to communicate trends in profitability and forecasted financial outcomes.
 
 Tools Used: Python (pandas, matplotlib)
+
+## Advanced SQL Baseball Analytics
+- Explored a historical baseball database to answer analytical questions using SQL.
+- Utilized joins, common table expressions (CTEs), window functions, aggregation, and ranking functions to analyze team spending, player production, and university representation.
+- Produced insights through complex analytical queries on a relational database.
