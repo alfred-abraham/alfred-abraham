@@ -1,5 +1,5 @@
 # Alfred Abraham
-Boston University M.S. in Data Science graduate with experience analyzing data, building predictive machine learning models, and solving business problems using Python, SQL, Excel, Power BI, and Tableau. Former Graduate Intern at Aetna (CVS Health), where I developed project implementation plans for Medicare claims automation initiatives and used SQL to consolidate healthcare data for reporting and operational efficiency.
+Boston University M.S. in Data Science graduate with experience analyzing data, building predictive machine learning models, and solving business problems using Python, SQL, Excel, and Power BI. Former Graduate Intern at Aetna (CVS Health), where I developed project implementation plans for Medicare claims automation initiatives and used SQL to consolidate healthcare data for reporting and operational efficiency.
 
 # Projects
 ## [Boston University Phishing Detection Capstone Project](https://github.com/alfred-abraham/phishing_detection_capstone)
@@ -18,6 +18,14 @@ Python (pandas, scikit-learn, matplotlib)
 Tools Used: 
 Python (pandas, scikit-learn)
 
+## [Customer Churn Prediction] https://github.com/alfred-abraham/customer-churn-prediction
+- Built an end-to-end machine learning pipeline for telecom customer churn prediction using Decision Tree, Random Forest, and LightGBM.
+- Compared model performance using accuracy, precision, recall, f1 score, and ROC-AUC, selecting LightGBM as the best-performing model.
+- Identified business factors driving customer churn through grouped feature importance analysis and proposed data-driven retention strategies.
+
+Tools Used:
+Python (pandas, scikit-learn,matplotlib)
+
 
 ## [Bike Sharing Analytics Project (Google Data Analytics Capstone)](https://github.com/alfred-abraham/cyclistic_bike_sharing_analysis)
 - Queried, cleaned, and transformed 12 months of bike-share trip data using PostgreSQL and Excel.
@@ -34,7 +42,8 @@ Tools Used:
 - Designed KPIs and visualizations so stakeholders could quickly identify trends and compare performance.
 - Identified key business insights, including a 24% year-over-year increase in sales and steady sales growth throughout the year.
 
-Tools Used: Power BI
+Tools Used: 
+Power BI
 
 
 ## [Financial Performance Analytics for NYSE-Listed Companies](https://github.com/alfred-abraham/corporate_profitability_analysis)
@@ -42,5 +51,6 @@ Tools Used: Power BI
 - Developed financial forecasting scenarios (optimistic, expected, and pessimistic) to evaluate company performance under varying business conditions.
 - Created visualizations to communicate trends in profitability and forecasted financial outcomes.
 
-Tools Used: Python (pandas, matplotlib)
+Tools Used: 
+Python (pandas, matplotlib)
 
