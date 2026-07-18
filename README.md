@@ -38,7 +38,8 @@ Tools Used: SQL (MySQL)
 - Created a dashboard for a simulated car sales dataset
 - Displayed annual and monthly sales performance metrics, performance by body style and color, and performance by region
 - Found key insights such as a 24% increase in sales compared to the previous year, a steady increase in sales throughout the year, and a certain car color dominating sales (pale white).
-Tools Used
+
+Tools Used: 
 - Power BI
 - DAX
 
