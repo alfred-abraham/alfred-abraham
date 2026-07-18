@@ -34,9 +34,8 @@ Tools Used:
 - Displayed annual and monthly sales performance metrics, performance by body style and color, and performance by region.
 - Discovered key insights such as a 24% increase in sales compared to the previous year, a steady increase in sales throughout the year, and a certain car color dominating sales (pale white).
 
-Tools Used: 
-- Power BI
-- DAX
+Tools Used: Power BI
+
 
 ## Financial Performance Analytics for NYSE-Listed Companies
 - Collected, cleaned, and analyzed financial datasets to identify profitability trends across publicly traded companies.
