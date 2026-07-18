@@ -47,4 +47,4 @@ Tools Used: Python (pandas, matplotlib)
 ## Advanced SQL Baseball Analytics
 - Explored a historical baseball database to answer analytical questions using SQL.
 - Utilized joins, common table expressions (CTEs), window functions, aggregation, and ranking functions to analyze team spending, player production, and university representation.
-- Produced insights through complex analytical queries on a relational database.
+- Produced insights through complex analytical queries on a relational database. 
