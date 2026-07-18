@@ -24,7 +24,7 @@ Python (pandas, scikit-learn)
 - Identified business factors driving customer churn through grouped feature importance analysis and proposed data-driven retention strategies.
 
 Tools Used:
-Python (pandas, scikit-learn,matplotlib)
+Python (pandas, scikit-learn, matplotlib)
 
 
 ## [Bike Sharing Analytics Project (Google Data Analytics Capstone)](https://github.com/alfred-abraham/cyclistic_bike_sharing_analysis)
