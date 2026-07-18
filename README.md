@@ -1,7 +1,7 @@
 # Alfred Abraham
 Boston University M.S. in Data Science graduate with experience analyzing data, building predictive machine learning models, and solving business problems using Python, SQL, Excel, Power BI, and Tableau. Former Graduate Intern at Aetna (CVS Health), where I developed project implementation plans for Medicare claims automation initiatives and used SQL to consolidate healthcare data for reporting and operational efficiency.
 
-#  Key Projects
+# Projects
 ## [Boston University Phishing Detection Capstone Project](https://github.com/alfred-abraham/phishing_detection_capstone)
 - Developed an end-to-end phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
 - Evaluated models using cross-validation, precision, recall, and F1-score while addressing class imbalance.
