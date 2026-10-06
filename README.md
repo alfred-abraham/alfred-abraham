@@ -39,11 +39,3 @@ Tools Used:
 Power BI
 
 
-## [Financial Performance Analytics for NYSE-Listed Companies](https://github.com/alfred-abraham/corporate_profitability_analysis)
-- Collected, cleaned, and analyzed financial datasets to identify profitability trends across publicly traded companies.
-- Developed financial forecasting scenarios (optimistic, expected, and pessimistic) to evaluate company performance under varying business conditions.
-- Created visualizations to communicate trends in profitability and forecasted financial outcomes.
-
-Tools Used: 
-Python (pandas, matplotlib)
-
