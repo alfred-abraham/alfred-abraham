@@ -10,13 +10,6 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 Tools Used: 
 Python (pandas, scikit-learn, matplotlib)
 
-## [Credit Card Fraud Detection](https://github.com/alfred-abraham/credit-card-fraud-detection)
-- Built an XGBoost fraud detection model for highly imbalanced credit card transaction data.
-- Optimized model performance using precision, recall, and F1-score rather than accuracy to better evaluate fraud detection effectiveness.
-- Obtained precision and recall metrics for fraudulent transactions that were in the 85 - 88% range, indicating that the vast majority of such transactions were correctly identified while false positives were minimized.
-
-Tools Used: 
-Python (pandas, scikit-learn)
 
 ## [ Customer Churn Prediction](https://github.com/alfred-abraham/customer-churn-prediction)
 - Built an end-to-end machine learning pipeline for telecom customer churn prediction using Decision Tree, Random Forest, and LightGBM.
