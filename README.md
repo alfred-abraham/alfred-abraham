@@ -9,6 +9,13 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 
 Tools Used: 
 Python (pandas, scikit-learn, matplotlib)
+## [Demand Forecasting with XGBoost](https://github.com/alfred-abraham/demand-forecasting-xgboost)
+
+- Built an end-to-end XGBoost demand forecasting model using approximately 76,000 historical retail observations.
+- Engineered lag, rolling, and calendar-based features and used time-series cross-validation and hyperparameter tuning to evaluate model performance while preventing data leakage.
+- Achieved an RMSE of 12.39, MAE of 8.60, and R² of 0.921 on the held-out test period, reducing RMSE by approximately 77.7% compared with a naive previous-demand baseline.
+
+Tools Used: Python (pandas, NumPy, scikit-learn, XGBoost, matplotlib)
 
 
 ## [ Customer Churn Prediction](https://github.com/alfred-abraham/customer-churn-prediction)
