@@ -2,11 +2,6 @@
 Boston University M.S. in Data Science graduate with experience analyzing data, building predictive machine learning models, and solving business problems using Python, SQL, Excel, and Power BI. Former Graduate Intern at Aetna (CVS Health), where I developed project implementation plans for Medicare claims automation initiatives and used SQL to consolidate healthcare data for reporting and operational efficiency.
 
 # Key Projects
-## [PeopleCore Employee App](https://github.com/alfred-abraham/employee-app)
-- Built a Next.js/PostgreSQL employee system with authentication, role and ownership permissions, migrations, private document storage, deployment tooling, and authorization/failure-recovery tests.
-
-Tools Used: 
-TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Drizzle ORM, Better Auth, Docker, and Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Secret Manager).
 
 ## [Boston University Phishing Detection Capstone Project](https://github.com/alfred-abraham/phishing_detection_capstone)
 - Developed an end-to-end phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
@@ -50,5 +45,11 @@ Tools Used:
 
 Tools Used: 
 Power BI
+
+## [PeopleCore Employee App](https://github.com/alfred-abraham/employee-app)
+- Built a Next.js/PostgreSQL employee system with authentication, role and ownership permissions, migrations, private document storage, deployment tooling, and authorization/failure-recovery tests.
+
+Tools Used: 
+TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Drizzle ORM, Better Auth, Docker, and Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Secret Manager).
 
 
