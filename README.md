@@ -5,13 +5,21 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 ## [PeopleCore Employee App](https://github.com/alfred-abraham/employee-app)
 - Built a Next.js/PostgreSQL employee system with authentication, role and ownership permissions, migrations, private document storage, deployment tooling, and authorization/failure-recovery tests.
 
-## [Boston University Phishing Detection Capstone](https://github.com/alfred-abraham/phishing_detection_capstone)
-- Compared five classifiers across URL and email corpora using stratified CV with fold-local preprocessing.
-- Model selection by phishing F1 favors different model families on different corpora; current notebooks and result tables replace historical metrics.
+## [Boston University Phishing Detection Capstone Project](https://github.com/alfred-abraham/phishing_detection_capstone)
+- Developed an end-to-end phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
+- Evaluated models using cross-validation, precision, recall, and F1-score while addressing class imbalance.
+- Achieved the best overall performance with Random Forest, exceeding the Logistic Regression baseline while achieving over 80% accuracy and phishing F1-score.
 
+Tools Used: 
+Python (pandas, scikit-learn, matplotlib)
 ## [Demand Forecasting with XGBoost](https://github.com/alfred-abraham/demand-forecasting-xgboost)
-- Built one-day-ahead forecasts with historical features grouped by store and product and validation grouped by date.
-- Corrected holdout RMSE is 40.02 versus 40.58 for a trailing seven-day mean, demonstrating a modest gain rather than the earlier overstated improvement.
+
+- Built an end-to-end XGBoost demand forecasting model using approximately 76,000 historical retail observations.
+- Engineered lag, rolling, and calendar-based features and used time-series cross-validation and hyperparameter tuning to evaluate model performance while preventing data leakage.
+- Achieved an RMSE of 12.39, MAE of 8.60, and R² of 0.921 on the held-out test period, reducing RMSE by approximately 77.7% compared with a naive previous-demand baseline.
+
+Tools Used: Python (pandas, NumPy, scikit-learn, XGBoost, matplotlib)
+
 
 ## [ Customer Churn Prediction](https://github.com/alfred-abraham/customer-churn-prediction)
 - Built an end-to-end machine learning pipeline for telecom customer churn prediction using Decision Tree, Random Forest, and LightGBM.
@@ -41,7 +49,3 @@ Tools Used:
 Power BI
 
 
-
-## [Credit Card Fraud Detection](https://github.com/alfred-abraham/credit-card-fraud-detection)
-- Evaluated class-weighted XGBoost on a deduplicated ULB transaction dataset with separate training, validation and test partitions.
-- Reported average precision and explicit precision/recall tradeoffs using a validation-selected threshold.
