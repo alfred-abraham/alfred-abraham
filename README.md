@@ -6,7 +6,7 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 ## [Boston University Phishing Detection Capstone Project](https://github.com/alfred-abraham/phishing_detection_capstone)
 - Developed an end-to-end phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
 - Evaluated models using cross-validation, precision, recall, and F1-score while addressing class imbalance.
-- Achieved the best overall performance with Random Forest, exceeding the Logistic Regression baseline while achieving over 80% accuracy and phishing F1-score.
+- Achieved the best overall performance with Random Forest, exceeding the Logistic Regression baseline while achieving over 80% for both the accuracy and the phishing F1-score.
 
 Tools Used: 
 Python (pandas, scikit-learn, matplotlib)
