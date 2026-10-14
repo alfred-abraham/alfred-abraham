@@ -50,6 +50,13 @@ Power BI
 - Built a Next.js/PostgreSQL employee system with authentication, role and ownership permissions, migrations, private document storage, deployment tooling, and authorization/failure-recovery tests.
 
 Tools Used: 
-TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Drizzle ORM, Better Auth, Docker, and Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Secret Manager).
+
+-  TypeScript
+-  Next.js
+-  PostgreSQL
+-  Drizzle ORM
+-  Better Auth
+-  Docker
+-  Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Secret Manager)
 
 
