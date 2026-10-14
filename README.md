@@ -4,6 +4,7 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 # Key Projects
 ## [PeopleCore Employee App](https://github.com/alfred-abraham/employee-app)
 - Built a Next.js/PostgreSQL employee system with authentication, role and ownership permissions, migrations, private document storage, deployment tooling, and authorization/failure-recovery tests.
+
 Tools Used: 
 TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Drizzle ORM, Better Auth, Docker, and Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Secret Manager).
 
