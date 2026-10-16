@@ -4,7 +4,7 @@ Boston University M.S. in Data Science graduate with experience analyzing data, 
 # Key Projects
 
 ## [Boston University Phishing Detection Capstone Project](https://github.com/alfred-abraham/phishing_detection_capstone)
-- Developed an end-to-end phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
+- Developed a phishing detection system by training and evaluating five supervised machine learning models to classify phishing URLs and emails.
 - Evaluated models using cross-validation, precision, recall, and F1-score while addressing class imbalance.
 - Achieved the best overall performance with Random Forest, exceeding the Logistic Regression baseline while achieving over 80% for both the accuracy and the phishing F1-score.
 
@@ -12,7 +12,7 @@ Tools Used:
 Python (pandas, scikit-learn, matplotlib)
 ## [Demand Forecasting with XGBoost](https://github.com/alfred-abraham/demand-forecasting-xgboost)
 
-- Built an end-to-end XGBoost demand forecasting model using approximately 76,000 historical retail observations.
+- Built an XGBoost demand forecasting model using approximately 76,000 historical retail observations.
 - Engineered lag, rolling, and calendar-based features and used time-series cross-validation and hyperparameter tuning to evaluate model performance while preventing data leakage.
 - Achieved an RMSE of 12.39, MAE of 8.60, and R² of 0.921 on the held-out test period, reducing RMSE by approximately 77.7% compared with a naive previous-demand baseline.
 
@@ -20,7 +20,7 @@ Tools Used: Python (pandas, NumPy, scikit-learn, XGBoost, matplotlib)
 
 
 ## [ Customer Churn Prediction](https://github.com/alfred-abraham/customer-churn-prediction)
-- Built an end-to-end machine learning pipeline for telecom customer churn prediction using Decision Tree, Random Forest, and LightGBM.
+- Built a machine learning pipeline for telecom customer churn prediction using Decision Tree, Random Forest, and LightGBM.
 - Compared model performance using accuracy, precision, recall, f1 score, and ROC-AUC, selecting LightGBM as the best-performing model.
 - Identified business factors driving customer churn through grouped feature importance analysis and proposed data-driven retention strategies.
 
